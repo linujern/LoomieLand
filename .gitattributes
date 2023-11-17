@@ -21,6 +21,7 @@
 *.bank lfs
 *.wav lfs
 *.mp3 lfs
+*.mp4 lfs
 *.ogg lfs
 *.flac lfs
 # Icons
